@@ -10,10 +10,14 @@
 		<Property Name="server.vi.callsEnabled" Type="Bool">true</Property>
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
+		<Item Name="correccioncentroide.vi" Type="VI" URL="../correccioncentroide.vi"/>
+		<Item Name="correccionrotacion.vi" Type="VI" URL="../correccionrotacion.vi"/>
 		<Item Name="FiltroH.vi" Type="VI" URL="../FiltroH.vi"/>
 		<Item Name="FiltroHSV.vi" Type="VI" URL="../FiltroHSV.vi"/>
 		<Item Name="ImagenBinarizada.vi" Type="VI" URL="../ImagenBinarizada.vi"/>
+		<Item Name="quiensabequehacerconesto.vi" Type="VI" URL="../quiensabequehacerconesto.vi"/>
 		<Item Name="SVA_MAIN.vi" Type="VI" URL="../SVA_MAIN.vi"/>
+		<Item Name="TransformacionPatron.vi" Type="VI" URL="../TransformacionPatron.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Cast Image 2 Method.ctl" Type="VI" URL="/&lt;vilib&gt;/vision/Management.llb/Cast Image 2 Method.ctl"/>
