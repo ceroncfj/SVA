@@ -165,6 +165,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="filtroColores.vi" Type="VI" URL="../../SVA_P4/filtroColores.vi"/>
+			<Item Name="generador_reporte_post_portada_subvi.vi" Type="VI" URL="../generador_reporte_post_portada_subvi.vi"/>
 			<Item Name="kernel32.dll" Type="Document" URL="kernel32.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
@@ -178,6 +179,7 @@
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
 			<Item Name="Overlay Points with User Specified Size.vi" Type="VI" URL="../../../../../../../../Program Files (x86)/National Instruments/LabVIEW 2021/examples/Vision/Overlay Utilities/Overlay Points with User Specified Size.vi"/>
+			<Item Name="portada_reporte_subvi.vi" Type="VI" URL="../portada_reporte_subvi.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
